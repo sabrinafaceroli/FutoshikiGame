@@ -1,0 +1,484 @@
+1
+4 3 1 2 
+3 2 4 1 
+1 4 2 3 
+2 1 3 4 
+Tempo de execucao: 0.00255489349365 segundos.
+Numero de atribuicoes: 337
+2
+2 1 3 4 
+1 2 4 3 
+3 4 2 1 
+4 3 1 2 
+Tempo de execucao: 0.000761032104492 segundos.
+Numero de atribuicoes: 91
+3
+1 2 3 4 
+3 1 4 2 
+4 3 2 1 
+2 4 1 3 
+Tempo de execucao: 0.000130176544189 segundos.
+Numero de atribuicoes: 17
+4
+2 4 1 3 
+4 2 3 1 
+3 1 2 4 
+1 3 4 2 
+Tempo de execucao: 0.000504970550537 segundos.
+Numero de atribuicoes: 78
+5
+2 1 4 3 
+1 4 3 2 
+4 3 2 1 
+3 2 1 4 
+Tempo de execucao: 0.00429606437683 segundos.
+Numero de atribuicoes: 608
+6
+1 2 4 3 
+2 1 3 4 
+4 3 2 1 
+3 4 1 2 
+Tempo de execucao: 0.000422954559326 segundos.
+Numero de atribuicoes: 34
+7
+3 2 4 1 
+2 4 1 3 
+4 1 3 2 
+1 3 2 4 
+Tempo de execucao: 0.00013279914856 segundos.
+Numero de atribuicoes: 19
+8
+3 4 2 1 
+2 3 1 4 
+4 1 3 2 
+1 2 4 3 
+Tempo de execucao: 0.00196599960327 segundos.
+Numero de atribuicoes: 296
+9
+2 3 4 1 
+3 1 2 4 
+4 2 1 3 
+1 4 3 2 
+Tempo de execucao: 0.000595092773438 segundos.
+Numero de atribuicoes: 106
+10
+2 4 1 3 
+1 3 4 2 
+3 1 2 4 
+4 2 3 1 
+Tempo de execucao: 0.00328993797302 segundos.
+Numero de atribuicoes: 142
+11
+1 2 3 4 
+4 3 2 1 
+3 1 4 2 
+2 4 1 3 
+Tempo de execucao: 0.00139403343201 segundos.
+Numero de atribuicoes: 107
+12
+3 1 2 4 
+1 4 3 2 
+4 2 1 3 
+2 3 4 1 
+Tempo de execucao: 0.000272035598755 segundos.
+Numero de atribuicoes: 19
+13
+4 1 2 3 
+2 3 4 1 
+3 4 1 2 
+1 2 3 4 
+Tempo de execucao: 0.00450611114502 segundos.
+Numero de atribuicoes: 389
+14
+3 1 2 4 
+4 2 3 1 
+1 3 4 2 
+2 4 1 3 
+Tempo de execucao: 0.000427961349487 segundos.
+Numero de atribuicoes: 38
+15
+1 2 3 4 
+2 3 4 1 
+4 1 2 3 
+3 4 1 2 
+Tempo de execucao: 0.000213146209717 segundos.
+Numero de atribuicoes: 17
+16
+4 2 1 3 
+3 1 4 2 
+2 4 3 1 
+1 3 2 4 
+Tempo de execucao: 0.0026969909668 segundos.
+Numero de atribuicoes: 242
+17
+1 3 5 4 2 
+3 2 1 5 4 
+4 1 3 2 5 
+2 5 4 3 1 
+5 4 2 1 3 
+Tempo de execucao: 0.00959706306458 segundos.
+Numero de atribuicoes: 749
+18
+1 4 3 2 5 
+2 3 4 5 1 
+4 5 1 3 2 
+3 2 5 1 4 
+5 1 2 4 3 
+Tempo de execucao: 0.0203030109406 segundos.
+Numero de atribuicoes: 1459
+19
+1 2 3 4 5 
+3 5 2 1 4 
+5 4 1 3 2 
+4 3 5 2 1 
+2 1 4 5 3 
+Tempo de execucao: 0.00182580947876 segundos.
+Numero de atribuicoes: 175
+20
+3 1 2 4 5 
+5 4 1 3 2 
+4 2 3 5 1 
+2 3 5 1 4 
+1 5 4 2 3 
+Tempo de execucao: 0.00349712371826 segundos.
+Numero de atribuicoes: 478
+21
+1 2 3 5 4 
+2 1 4 3 5 
+3 5 1 4 2 
+4 3 5 2 1 
+5 4 2 1 3 
+Tempo de execucao: 0.000280141830444 segundos.
+Numero de atribuicoes: 36
+22
+5 3 4 2 1 
+3 4 1 5 2 
+2 1 3 4 5 
+4 5 2 1 3 
+1 2 5 3 4 
+Tempo de execucao: 0.0405340194702 segundos.
+Numero de atribuicoes: 6080
+23
+1 4 2 5 3 
+2 1 3 4 5 
+5 3 1 2 4 
+4 2 5 3 1 
+3 5 4 1 2 
+Tempo de execucao: 0.00128793716431 segundos.
+Numero de atribuicoes: 200
+24
+3 1 2 4 5 
+1 2 3 5 4 
+2 4 5 3 1 
+5 3 4 1 2 
+4 5 1 2 3 
+Tempo de execucao: 0.000670909881592 segundos.
+Numero de atribuicoes: 40
+25
+2 5 1 3 4 
+3 1 4 5 2 
+1 2 3 4 5 
+4 3 5 2 1 
+5 4 2 1 3 
+Tempo de execucao: 0.00550198554993 segundos.
+Numero de atribuicoes: 700
+26
+3 4 5 1 2 
+4 3 2 5 1 
+2 5 1 3 4 
+5 1 4 2 3 
+1 2 3 4 5 
+Tempo de execucao: 0.000586032867432 segundos.
+Numero de atribuicoes: 86
+27
+1 2 5 3 4 
+4 5 1 2 3 
+3 1 4 5 2 
+5 3 2 4 1 
+2 4 3 1 5 
+Tempo de execucao: 0.00142884254456 segundos.
+Numero de atribuicoes: 191
+28
+2 1 4 5 3 
+1 3 2 4 5 
+3 4 5 2 1 
+5 2 1 3 4 
+4 5 3 1 2 
+Tempo de execucao: 0.002760887146 segundos.
+Numero de atribuicoes: 305
+29
+2 1 4 5 3 
+1 4 5 3 2 
+3 5 2 1 4 
+5 2 3 4 1 
+4 3 1 2 5 
+Tempo de execucao: 0.0046169757843 segundos.
+Numero de atribuicoes: 589
+30
+2 3 5 1 4 
+5 2 3 4 1 
+4 5 1 3 2 
+1 4 2 5 3 
+3 1 4 2 5 
+Tempo de execucao: 0.0356459617615 segundos.
+Numero de atribuicoes: 5329
+31
+1 3 5 2 4 
+3 2 4 5 1 
+5 1 2 4 3 
+2 4 1 3 5 
+4 5 3 1 2 
+Tempo de execucao: 0.00332903862 segundos.
+Numero de atribuicoes: 487
+32
+4 1 2 3 5 
+3 2 1 5 4 
+1 5 4 2 3 
+2 3 5 4 1 
+5 4 3 1 2 
+Tempo de execucao: 0.00427389144897 segundos.
+Numero de atribuicoes: 881
+33
+3 4 1 2 5 6 
+2 3 4 5 6 1 
+4 6 5 3 1 2 
+5 2 6 1 4 3 
+6 1 2 4 3 5 
+1 5 3 6 2 4 
+Tempo de execucao: 0.0574879646301 segundos.
+Numero de atribuicoes: 6700
+34
+1 2 3 4 5 6 
+2 4 1 3 6 5 
+6 3 2 5 4 1 
+5 6 4 1 2 3 
+4 1 5 6 3 2 
+3 5 6 2 1 4 
+Tempo de execucao: 0.0112969875336 segundos.
+Numero de atribuicoes: 1324
+35
+1 2 4 5 6 3 
+5 1 6 2 3 4 
+2 4 1 3 5 6 
+3 6 2 4 1 5 
+4 3 5 6 2 1 
+6 5 3 1 4 2 
+Tempo de execucao: 0.00717401504517 segundos.
+Numero de atribuicoes: 853
+36
+1 6 2 5 4 3 
+2 1 3 6 5 4 
+5 2 6 4 3 1 
+4 3 1 2 6 5 
+6 4 5 3 1 2 
+3 5 4 1 2 6 
+Tempo de execucao: 0.0150351524353 segundos.
+Numero de atribuicoes: 1948
+37
+4 3 5 1 2 6 
+3 2 1 6 4 5 
+1 6 4 5 3 2 
+5 4 3 2 6 1 
+2 1 6 4 5 3 
+6 5 2 3 1 4 
+Tempo de execucao: 1.80453515053 segundos.
+Numero de atribuicoes: 212910
+38
+4 2 3 1 6 5 
+5 4 6 2 3 1 
+3 6 5 4 1 2 
+2 5 1 6 4 3 
+1 3 4 5 2 6 
+6 1 2 3 5 4 
+Tempo de execucao: 0.00658011436462 segundos.
+Numero de atribuicoes: 774
+39
+5 3 1 4 2 6 
+3 4 6 1 5 2 
+4 2 5 6 1 3 
+2 6 3 5 4 1 
+6 1 4 2 3 5 
+1 5 2 3 6 4 
+Tempo de execucao: 0.0176210403442 segundos.
+Numero de atribuicoes: 2300
+40
+1 2 3 6 5 4 
+6 3 2 4 1 5 
+3 4 1 5 2 6 
+2 5 4 3 6 1 
+5 1 6 2 4 3 
+4 6 5 1 3 2 
+Tempo de execucao: 0.0791070461273 segundos.
+Numero de atribuicoes: 11970
+41
+5 4 2 6 3 1 
+4 6 1 2 5 3 
+1 2 3 5 6 4 
+2 1 6 3 4 5 
+6 3 5 4 1 2 
+3 5 4 1 2 6 
+Tempo de execucao: 0.0810930728912 segundos.
+Numero de atribuicoes: 11055
+42
+1 2 4 6 3 5 
+2 3 6 5 1 4 
+3 1 5 4 2 6 
+5 6 1 3 4 2 
+6 4 2 1 5 3 
+4 5 3 2 6 1 
+Tempo de execucao: 0.0353000164032 segundos.
+Numero de atribuicoes: 4098
+43
+3 2 5 4 6 1 
+4 3 6 1 5 2 
+1 6 3 5 2 4 
+2 5 1 6 4 3 
+5 4 2 3 1 6 
+6 1 4 2 3 5 
+Tempo de execucao: 0.834232091904 segundos.
+Numero de atribuicoes: 99386
+44
+5 2 3 4 6 1 
+4 6 5 2 1 3 
+6 4 1 3 5 2 
+2 1 4 6 3 5 
+3 5 6 1 2 4 
+1 3 2 5 4 6 
+Tempo de execucao: 0.00388813018799 segundos.
+Numero de atribuicoes: 481
+45
+4 6 1 3 2 5 
+3 4 6 2 5 1 
+2 1 3 5 6 4 
+5 3 2 1 4 6 
+6 2 5 4 1 3 
+1 5 4 6 3 2 
+Tempo de execucao: 0.447293043137 segundos.
+Numero de atribuicoes: 65612
+46
+6 1 3 2 4 5 
+1 3 5 4 2 6 
+3 2 1 6 5 4 
+5 4 2 1 6 3 
+4 5 6 3 1 2 
+2 6 4 5 3 1 
+Tempo de execucao: 0.00147485733032 segundos.
+Numero de atribuicoes: 206
+47
+1 2 6 3 5 4 
+5 3 1 4 6 2 
+4 1 3 5 2 6 
+2 6 5 1 4 3 
+6 5 4 2 3 1 
+3 4 2 6 1 5 
+Tempo de execucao: 0.00348806381226 segundos.
+Numero de atribuicoes: 538
+48
+1 3 2 4 5 6 
+2 1 3 6 4 5 
+3 4 6 5 1 2 
+6 5 1 2 3 4 
+5 6 4 1 2 3 
+4 2 5 3 6 1 
+Tempo de execucao: 0.00142097473145 segundos.
+Numero de atribuicoes: 168
+49
+4 7 6 5 3 2 1 
+2 5 4 3 7 1 6 
+1 3 2 6 5 4 7 
+5 6 1 7 2 3 4 
+6 1 3 2 4 7 0 
+3 0 0 0 0 0 0 
+0 0 7 0 0 0 3 
+Tempo de execucao: 11.4197249413 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+50
+2 1 3 4 5 6 7 
+1 6 4 3 7 5 2 
+5 3 1 2 4 7 6 
+3 2 7 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 3 5 
+Tempo de execucao: 8.25014996529 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+51
+1 2 3 4 5 7 6 
+2 1 4 6 7 3 5 
+4 5 7 3 6 1 2 
+3 7 5 2 1 6 4 
+6 4 2 1 3 5 7 
+7 6 1 5 4 2 3 
+5 3 6 7 2 4 1 
+Tempo de execucao: 0.0343389511108 segundos.
+Numero de atribuicoes: 4549
+52
+2 1 3 4 5 6 7 
+1 6 4 5 2 7 3 
+5 2 7 3 6 4 1 
+6 4 5 7 1 3 2 
+7 3 2 1 4 5 6 
+3 5 6 2 7 1 4 
+4 7 1 6 3 2 5 
+Tempo de execucao: 0.198002099991 segundos.
+Numero de atribuicoes: 16900
+53
+2 1 4 3 6 5 7 
+3 4 5 6 2 7 1 
+1 5 6 7 4 3 2 
+7 6 2 5 3 1 4 
+6 7 1 4 5 2 3 
+4 2 3 1 7 6 5 
+5 3 7 2 1 4 6 
+Tempo de execucao: 0.810557126999 segundos.
+Numero de atribuicoes: 91952
+54
+4 1 2 5 3 6 7 
+1 5 7 4 6 3 2 
+6 3 5 2 4 7 1 
+5 4 1 3 7 2 6 
+7 2 4 6 1 5 3 
+2 6 3 7 5 1 4 
+3 7 6 1 2 4 5 
+Tempo de execucao: 0.00205612182617 segundos.
+Numero de atribuicoes: 199
+55
+1 3 4 5 2 6 7 
+7 1 6 2 4 3 5 
+6 2 5 4 3 7 1 
+4 7 1 6 5 2 3 
+2 5 7 3 6 1 4 
+3 4 2 7 1 5 6 
+5 6 3 1 7 4 2 
+Tempo de execucao: 0.076583147049 segundos.
+Numero de atribuicoes: 8824
+56
+3 1 5 2 6 4 7 
+2 3 6 5 4 7 1 
+1 4 2 7 3 6 5 
+5 6 4 1 7 3 2 
+4 7 1 3 2 5 6 
+6 5 7 4 1 2 3 
+7 2 3 6 5 1 4 
+Tempo de execucao: 2.84421205521 segundos.
+Numero de atribuicoes: 276357
+57
+3 2 1 4 5 6 7 
+2 1 3 5 7 4 6 
+5 3 6 2 4 7 1 
+6 4 2 7 3 1 5 
+7 5 4 6 1 3 2 
+1 7 5 3 6 2 4 
+4 6 7 1 2 5 3 
+Tempo de execucao: 4.31653904915 segundos.
+Numero de atribuicoes: 357851
+58
+2 1 6 3 5 4 7 
+7 4 3 2 6 5 1 
+1 6 5 7 4 2 3 
+4 2 7 5 1 3 6 
+3 7 1 4 2 6 5 
+6 5 4 1 3 7 2 
+5 3 2 6 7 1 4 
+Tempo de execucao: 0.34198307991 segundos.
+Numero de atrib

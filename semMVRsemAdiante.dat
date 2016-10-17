@@ -1,0 +1,960 @@
+1
+4 3 1 2 
+3 2 4 1 
+1 4 2 3 
+2 1 3 4 
+Tempo de execucao: 0.00167989730835 segundos.
+Numero de atribuicoes: 337
+2
+2 1 3 4 
+1 2 4 3 
+3 4 2 1 
+4 3 1 2 
+Tempo de execucao: 0.000498056411743 segundos.
+Numero de atribuicoes: 91
+3
+1 2 3 4 
+3 1 4 2 
+4 3 2 1 
+2 4 1 3 
+Tempo de execucao: 0.000113010406494 segundos.
+Numero de atribuicoes: 17
+4
+2 4 1 3 
+4 2 3 1 
+3 1 2 4 
+1 3 4 2 
+Tempo de execucao: 0.000468015670776 segundos.
+Numero de atribuicoes: 78
+5
+2 1 4 3 
+1 4 3 2 
+4 3 2 1 
+3 2 1 4 
+Tempo de execucao: 0.00395798683167 segundos.
+Numero de atribuicoes: 608
+6
+1 2 4 3 
+2 1 3 4 
+4 3 2 1 
+3 4 1 2 
+Tempo de execucao: 0.000223159790039 segundos.
+Numero de atribuicoes: 34
+7
+3 2 4 1 
+2 4 1 3 
+4 1 3 2 
+1 3 2 4 
+Tempo de execucao: 0.000115871429443 segundos.
+Numero de atribuicoes: 19
+8
+3 4 2 1 
+2 3 1 4 
+4 1 3 2 
+1 2 4 3 
+Tempo de execucao: 0.00179100036621 segundos.
+Numero de atribuicoes: 296
+9
+2 3 4 1 
+3 1 2 4 
+4 2 1 3 
+1 4 3 2 
+Tempo de execucao: 0.000555992126465 segundos.
+Numero de atribuicoes: 106
+10
+2 4 1 3 
+1 3 4 2 
+3 1 2 4 
+4 2 3 1 
+Tempo de execucao: 0.00132203102112 segundos.
+Numero de atribuicoes: 142
+11
+1 2 3 4 
+4 3 2 1 
+3 1 4 2 
+2 4 1 3 
+Tempo de execucao: 0.000679016113281 segundos.
+Numero de atribuicoes: 107
+12
+3 1 2 4 
+1 4 3 2 
+4 2 1 3 
+2 3 4 1 
+Tempo de execucao: 0.000116109848022 segundos.
+Numero de atribuicoes: 19
+13
+4 1 2 3 
+2 3 4 1 
+3 4 1 2 
+1 2 3 4 
+Tempo de execucao: 0.00237083435059 segundos.
+Numero de atribuicoes: 389
+14
+3 1 2 4 
+4 2 3 1 
+1 3 4 2 
+2 4 1 3 
+Tempo de execucao: 0.000219106674194 segundos.
+Numero de atribuicoes: 38
+15
+1 2 3 4 
+2 3 4 1 
+4 1 2 3 
+3 4 1 2 
+Tempo de execucao: 0.000110149383545 segundos.
+Numero de atribuicoes: 17
+16
+4 2 1 3 
+3 1 4 2 
+2 4 3 1 
+1 3 2 4 
+Tempo de execucao: 0.00135278701782 segundos.
+Numero de atribuicoes: 242
+17
+1 3 5 4 2 
+3 2 1 5 4 
+4 1 3 2 5 
+2 5 4 3 1 
+5 4 2 1 3 
+Tempo de execucao: 0.0053391456604 segundos.
+Numero de atribuicoes: 749
+18
+1 4 3 2 5 
+2 3 4 5 1 
+4 5 1 3 2 
+3 2 5 1 4 
+5 1 2 4 3 
+Tempo de execucao: 0.0105669498444 segundos.
+Numero de atribuicoes: 1459
+19
+1 2 3 4 5 
+3 5 2 1 4 
+5 4 1 3 2 
+4 3 5 2 1 
+2 1 4 5 3 
+Tempo de execucao: 0.00106191635132 segundos.
+Numero de atribuicoes: 175
+20
+3 1 2 4 5 
+5 4 1 3 2 
+4 2 3 5 1 
+2 3 5 1 4 
+1 5 4 2 3 
+Tempo de execucao: 0.00314593315125 segundos.
+Numero de atribuicoes: 478
+21
+1 2 3 5 4 
+2 1 4 3 5 
+3 5 1 4 2 
+4 3 5 2 1 
+5 4 2 1 3 
+Tempo de execucao: 0.00029182434082 segundos.
+Numero de atribuicoes: 36
+22
+5 3 4 2 1 
+3 4 1 5 2 
+2 1 3 4 5 
+4 5 2 1 3 
+1 2 5 3 4 
+Tempo de execucao: 0.0388970375061 segundos.
+Numero de atribuicoes: 6080
+23
+1 4 2 5 3 
+2 1 3 4 5 
+5 3 1 2 4 
+4 2 5 3 1 
+3 5 4 1 2 
+Tempo de execucao: 0.00103402137756 segundos.
+Numero de atribuicoes: 200
+24
+3 1 2 4 5 
+1 2 3 5 4 
+2 4 5 3 1 
+5 3 4 1 2 
+4 5 1 2 3 
+Tempo de execucao: 0.000287771224976 segundos.
+Numero de atribuicoes: 40
+25
+2 5 1 3 4 
+3 1 4 5 2 
+1 2 3 4 5 
+4 3 5 2 1 
+5 4 2 1 3 
+Tempo de execucao: 0.00422978401184 segundos.
+Numero de atribuicoes: 700
+26
+3 4 5 1 2 
+4 3 2 5 1 
+2 5 1 3 4 
+5 1 4 2 3 
+1 2 3 4 5 
+Tempo de execucao: 0.000519037246704 segundos.
+Numero de atribuicoes: 86
+27
+1 2 5 3 4 
+4 5 1 2 3 
+3 1 4 5 2 
+5 3 2 4 1 
+2 4 3 1 5 
+Tempo de execucao: 0.00136995315552 segundos.
+Numero de atribuicoes: 191
+28
+2 1 4 5 3 
+1 3 2 4 5 
+3 4 5 2 1 
+5 2 1 3 4 
+4 5 3 1 2 
+Tempo de execucao: 0.00226306915283 segundos.
+Numero de atribuicoes: 305
+29
+2 1 4 5 3 
+1 4 5 3 2 
+3 5 2 1 4 
+5 2 3 4 1 
+4 3 1 2 5 
+Tempo de execucao: 0.00464606285095 segundos.
+Numero de atribuicoes: 589
+30
+2 3 5 1 4 
+5 2 3 4 1 
+4 5 1 3 2 
+1 4 2 5 3 
+3 1 4 2 5 
+Tempo de execucao: 0.03777384758 segundos.
+Numero de atribuicoes: 5329
+31
+1 3 5 2 4 
+3 2 4 5 1 
+5 1 2 4 3 
+2 4 1 3 5 
+4 5 3 1 2 
+Tempo de execucao: 0.00315713882446 segundos.
+Numero de atribuicoes: 487
+32
+4 1 2 3 5 
+3 2 1 5 4 
+1 5 4 2 3 
+2 3 5 4 1 
+5 4 3 1 2 
+Tempo de execucao: 0.00390887260437 segundos.
+Numero de atribuicoes: 881
+33
+3 4 1 2 5 6 
+2 3 4 5 6 1 
+4 6 5 3 1 2 
+5 2 6 1 4 3 
+6 1 2 4 3 5 
+1 5 3 6 2 4 
+Tempo de execucao: 0.0544891357422 segundos.
+Numero de atribuicoes: 6700
+34
+1 2 3 4 5 6 
+2 4 1 3 6 5 
+6 3 2 5 4 1 
+5 6 4 1 2 3 
+4 1 5 6 3 2 
+3 5 6 2 1 4 
+Tempo de execucao: 0.010773897171 segundos.
+Numero de atribuicoes: 1324
+35
+1 2 4 5 6 3 
+5 1 6 2 3 4 
+2 4 1 3 5 6 
+3 6 2 4 1 5 
+4 3 5 6 2 1 
+6 5 3 1 4 2 
+Tempo de execucao: 0.00688290596008 segundos.
+Numero de atribuicoes: 853
+36
+1 6 2 5 4 3 
+2 1 3 6 5 4 
+5 2 6 4 3 1 
+4 3 1 2 6 5 
+6 4 5 3 1 2 
+3 5 4 1 2 6 
+Tempo de execucao: 0.0126161575317 segundos.
+Numero de atribuicoes: 1948
+37
+4 3 5 1 2 6 
+3 2 1 6 4 5 
+1 6 4 5 3 2 
+5 4 3 2 6 1 
+2 1 6 4 5 3 
+6 5 2 3 1 4 
+Tempo de execucao: 1.69540405273 segundos.
+Numero de atribuicoes: 212910
+38
+4 2 3 1 6 5 
+5 4 6 2 3 1 
+3 6 5 4 1 2 
+2 5 1 6 4 3 
+1 3 4 5 2 6 
+6 1 2 3 5 4 
+Tempo de execucao: 0.00640416145325 segundos.
+Numero de atribuicoes: 774
+39
+5 3 1 4 2 6 
+3 4 6 1 5 2 
+4 2 5 6 1 3 
+2 6 3 5 4 1 
+6 1 4 2 3 5 
+1 5 2 3 6 4 
+Tempo de execucao: 0.0168809890747 segundos.
+Numero de atribuicoes: 2300
+40
+1 2 3 6 5 4 
+6 3 2 4 1 5 
+3 4 1 5 2 6 
+2 5 4 3 6 1 
+5 1 6 2 4 3 
+4 6 5 1 3 2 
+Tempo de execucao: 0.077437877655 segundos.
+Numero de atribuicoes: 11970
+41
+5 4 2 6 3 1 
+4 6 1 2 5 3 
+1 2 3 5 6 4 
+2 1 6 3 4 5 
+6 3 5 4 1 2 
+3 5 4 1 2 6 
+Tempo de execucao: 0.0785429477692 segundos.
+Numero de atribuicoes: 11055
+42
+1 2 4 6 3 5 
+2 3 6 5 1 4 
+3 1 5 4 2 6 
+5 6 1 3 4 2 
+6 4 2 1 5 3 
+4 5 3 2 6 1 
+Tempo de execucao: 0.0339407920837 segundos.
+Numero de atribuicoes: 4098
+43
+3 2 5 4 6 1 
+4 3 6 1 5 2 
+1 6 3 5 2 4 
+2 5 1 6 4 3 
+5 4 2 3 1 6 
+6 1 4 2 3 5 
+Tempo de execucao: 0.861690044403 segundos.
+Numero de atribuicoes: 99386
+44
+5 2 3 4 6 1 
+4 6 5 2 1 3 
+6 4 1 3 5 2 
+2 1 4 6 3 5 
+3 5 6 1 2 4 
+1 3 2 5 4 6 
+Tempo de execucao: 0.00407004356384 segundos.
+Numero de atribuicoes: 481
+45
+4 6 1 3 2 5 
+3 4 6 2 5 1 
+2 1 3 5 6 4 
+5 3 2 1 4 6 
+6 2 5 4 1 3 
+1 5 4 6 3 2 
+Tempo de execucao: 0.437761068344 segundos.
+Numero de atribuicoes: 65612
+46
+6 1 3 2 4 5 
+1 3 5 4 2 6 
+3 2 1 6 5 4 
+5 4 2 1 6 3 
+4 5 6 3 1 2 
+2 6 4 5 3 1 
+Tempo de execucao: 0.00150394439697 segundos.
+Numero de atribuicoes: 206
+47
+1 2 6 3 5 4 
+5 3 1 4 6 2 
+4 1 3 5 2 6 
+2 6 5 1 4 3 
+6 5 4 2 3 1 
+3 4 2 6 1 5 
+Tempo de execucao: 0.00383019447327 segundos.
+Numero de atribuicoes: 538
+48
+1 3 2 4 5 6 
+2 1 3 6 4 5 
+3 4 6 5 1 2 
+6 5 1 2 3 4 
+5 6 4 1 2 3 
+4 2 5 3 6 1 
+Tempo de execucao: 0.00153303146362 segundos.
+Numero de atribuicoes: 168
+49
+4 7 6 5 3 2 1 
+2 5 4 3 7 1 6 
+1 3 2 6 5 4 7 
+5 6 1 7 2 3 4 
+6 1 3 2 4 7 0 
+3 0 0 0 0 0 0 
+0 0 7 0 0 0 3 
+Tempo de execucao: 10.6136338711 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+50
+2 1 3 4 5 6 7 
+1 6 4 3 7 5 2 
+5 3 1 2 4 7 6 
+3 2 7 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 3 5 
+Tempo de execucao: 7.85888004303 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+51
+1 2 3 4 5 7 6 
+2 1 4 6 7 3 5 
+4 5 7 3 6 1 2 
+3 7 5 2 1 6 4 
+6 4 2 1 3 5 7 
+7 6 1 5 4 2 3 
+5 3 6 7 2 4 1 
+Tempo de execucao: 0.0329148769379 segundos.
+Numero de atribuicoes: 4549
+52
+2 1 3 4 5 6 7 
+1 6 4 5 2 7 3 
+5 2 7 3 6 4 1 
+6 4 5 7 1 3 2 
+7 3 2 1 4 5 6 
+3 5 6 2 7 1 4 
+4 7 1 6 3 2 5 
+Tempo de execucao: 0.191966056824 segundos.
+Numero de atribuicoes: 16900
+53
+2 1 4 3 6 5 7 
+3 4 5 6 2 7 1 
+1 5 6 7 4 3 2 
+7 6 2 5 3 1 4 
+6 7 1 4 5 2 3 
+4 2 3 1 7 6 5 
+5 3 7 2 1 4 6 
+Tempo de execucao: 0.801367044449 segundos.
+Numero de atribuicoes: 91952
+54
+4 1 2 5 3 6 7 
+1 5 7 4 6 3 2 
+6 3 5 2 4 7 1 
+5 4 1 3 7 2 6 
+7 2 4 6 1 5 3 
+2 6 3 7 5 1 4 
+3 7 6 1 2 4 5 
+Tempo de execucao: 0.0020318031311 segundos.
+Numero de atribuicoes: 199
+55
+1 3 4 5 2 6 7 
+7 1 6 2 4 3 5 
+6 2 5 4 3 7 1 
+4 7 1 6 5 2 3 
+2 5 7 3 6 1 4 
+3 4 2 7 1 5 6 
+5 6 3 1 7 4 2 
+Tempo de execucao: 0.074903011322 segundos.
+Numero de atribuicoes: 8824
+56
+3 1 5 2 6 4 7 
+2 3 6 5 4 7 1 
+1 4 2 7 3 6 5 
+5 6 4 1 7 3 2 
+4 7 1 3 2 5 6 
+6 5 7 4 1 2 3 
+7 2 3 6 5 1 4 
+Tempo de execucao: 2.72818994522 segundos.
+Numero de atribuicoes: 276357
+57
+3 2 1 4 5 6 7 
+2 1 3 5 7 4 6 
+5 3 6 2 4 7 1 
+6 4 2 7 3 1 5 
+7 5 4 6 1 3 2 
+1 7 5 3 6 2 4 
+4 6 7 1 2 5 3 
+Tempo de execucao: 4.08161902428 segundos.
+Numero de atribuicoes: 357851
+58
+2 1 6 3 5 4 7 
+7 4 3 2 6 5 1 
+1 6 5 7 4 2 3 
+4 2 7 5 1 3 6 
+3 7 1 4 2 6 5 
+6 5 4 1 3 7 2 
+5 3 2 6 7 1 4 
+Tempo de execucao: 0.319298028946 segundos.
+Numero de atribuicoes: 33210
+59
+1 2 3 5 6 4 7 
+2 1 4 3 5 7 6 
+3 4 1 2 7 6 5 
+5 3 6 7 2 1 4 
+4 7 2 6 1 5 3 
+7 6 5 1 4 3 2 
+6 5 7 4 3 2 1 
+Tempo de execucao: 0.00805306434631 segundos.
+Numero de atribuicoes: 498
+60
+1 2 4 7 3 5 6 
+2 7 5 6 4 3 1 
+5 4 3 2 6 1 7 
+4 6 2 1 5 7 0 
+0 5 0 0 0 0 0 
+3 0 0 0 0 6 0 
+7 3 0 0 0 0 0 
+Tempo de execucao: 11.4382390976 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+61
+7 1 2 3 4 5 6 
+1 4 3 5 7 6 2 
+3 5 6 4 2 1 7 
+4 2 1 7 6 3 5 
+2 7 5 6 1 4 3 
+6 3 7 1 5 2 4 
+5 6 4 2 3 7 1 
+Tempo de execucao: 0.0116159915924 segundos.
+Numero de atribuicoes: 1129
+62
+2 1 3 4 7 6 5 
+1 2 4 6 3 5 7 
+4 5 2 3 1 7 6 
+7 6 1 5 4 3 2 
+6 4 5 7 2 1 3 
+5 3 7 2 6 4 1 
+3 7 6 1 5 2 4 
+Tempo de execucao: 0.363655805588 segundos.
+Numero de atribuicoes: 36967
+63
+1 3 2 4 5 6 7 
+5 4 3 1 6 7 2 
+3 6 7 5 4 2 1 
+7 5 4 2 3 1 6 
+6 1 5 3 2 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 5 
+Tempo de execucao: 11.1508071423 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+64
+1 2 3 4 7 6 5 
+4 5 7 6 2 3 1 
+3 7 4 5 6 1 2 
+7 4 5 1 3 2 6 
+5 3 6 2 1 4 7 
+2 6 1 7 4 5 3 
+6 1 2 3 5 7 4 
+Tempo de execucao: 2.25740599632 segundos.
+Numero de atribuicoes: 194075
+65
+7 8 1 4 5 2 3 6 
+1 2 3 8 6 4 7 5 
+4 5 2 7 1 6 8 3 
+5 1 0 0 0 0 0 0 
+0 0 4 0 0 0 0 0 
+0 0 0 3 0 0 0 0 
+0 0 0 5 0 0 0 1 
+0 0 0 0 0 0 0 0 
+Tempo de execucao: 12.7922360897 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+66
+2 4 5 1 8 7 3 6 
+1 6 7 2 4 3 8 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 3 
+0 0 0 0 0 0 0 0 
+0 0 6 0 0 0 0 0 
+0 0 0 0 0 0 0 5 
+0 0 0 0 0 0 0 0 
+Tempo de execucao: 8.27691483498 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+67
+7 1 2 3 4 5 8 6 
+3 6 4 8 1 7 2 5 
+2 8 0 0 0 0 0 0 
+0 0 0 0 2 0 1 8 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 4 0 
+0 2 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Tempo de execucao: 11.3925309181 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+68
+1 2 3 5 4 7 6 8 
+2 1 4 7 3 6 8 5 
+6 4 2 3 8 5 7 1 
+5 8 1 6 7 3 2 4 
+8 7 5 2 1 4 3 6 
+3 5 7 1 6 8 4 2 
+4 3 6 8 5 2 1 7 
+7 6 8 4 2 1 5 3 
+Tempo de execucao: 1.64389801025 segundos.
+Numero de atribuicoes: 110621
+69
+1 2 3 4 5 6 7 8 
+2 1 4 5 3 7 8 6 
+4 6 2 1 7 8 3 5 
+5 3 6 7 8 4 2 1 
+6 5 8 2 1 3 4 7 
+3 7 5 8 4 1 6 2 
+7 8 1 3 6 2 5 4 
+8 4 7 6 2 5 1 3 
+Tempo de execucao: 0.402909040451 segundos.
+Numero de atribuicoes: 29606
+70
+1 2 8 3 5 4 6 7 
+2 1 3 5 6 8 7 4 
+7 3 2 1 4 6 8 5 
+6 7 4 2 8 5 3 1 
+5 4 6 8 7 3 1 2 
+4 8 7 6 2 1 5 3 
+3 6 5 4 1 7 2 8 
+8 5 1 7 3 2 4 6 
+Tempo de execucao: 3.37741208076 segundos.
+Numero de atribuicoes: 268990
+71
+1 2 3 7 4 5 6 8 
+4 3 8 2 6 1 5 7 
+3 1 6 4 2 7 8 5 
+5 4 1 3 8 6 7 2 
+2 5 7 6 3 8 1 4 
+6 8 5 1 7 4 2 3 
+8 7 2 5 1 3 4 6 
+7 6 4 8 5 2 3 1 
+Tempo de execucao: 0.00432181358337 segundos.
+Numero de atribuicoes: 420
+72
+2 1 3 4 5 7 6 8 
+8 2 1 5 6 4 7 3 
+7 6 4 2 8 1 3 5 
+6 7 5 8 3 2 4 1 
+5 4 6 1 7 3 8 2 
+3 8 7 6 2 5 1 4 
+4 3 2 7 1 8 5 6 
+1 5 8 3 4 6 2 7 
+Tempo de execucao: 7.43113517761 segundos.
+Numero de atribuicoes: 475079
+73
+1 2 3 6 4 5 7 8 
+2 4 1 5 8 3 6 7 
+4 3 2 7 6 1 8 5 
+3 1 7 2 5 8 4 6 
+7 8 5 3 2 6 1 4 
+8 7 6 4 1 2 5 3 
+6 5 8 1 7 4 3 2 
+5 6 4 8 3 7 2 1 
+Tempo de execucao: 0.0873160362244 segundos.
+Numero de atribuicoes: 8805
+74
+2 3 1 4 6 5 8 7 
+1 2 3 5 4 6 7 8 
+3 4 7 8 5 2 6 1 
+7 6 2 1 8 3 4 5 
+5 1 4 6 7 8 2 3 
+4 5 8 2 1 7 3 6 
+6 8 5 7 3 4 1 2 
+8 7 6 3 2 1 5 4 
+Tempo de execucao: 7.34941196442 segundos.
+Numero de atribuicoes: 500004
+75
+4 5 1 2 3 6 8 7 
+1 3 2 4 8 7 6 5 
+5 7 6 8 4 3 2 1 
+6 4 3 1 5 8 7 2 
+0 0 0 0 0 0 0 0 
+0 0 0 3 0 5 0 0 
+0 2 0 0 0 0 4 0 
+0 0 0 0 0 0 0 4 
+Tempo de execucao: 12.3092210293 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+76
+2 1 4 3 6 5 7 8 
+1 2 3 5 8 4 6 7 
+3 4 5 6 7 1 8 2 
+7 8 6 1 2 3 4 5 
+6 5 7 2 4 8 3 1 
+8 7 2 4 5 6 1 3 
+5 6 1 8 3 7 2 4 
+4 3 8 7 1 2 5 6 
+Tempo de execucao: 1.44712495804 segundos.
+Numero de atribuicoes: 92163
+77
+1 2 4 5 6 7 3 8 
+2 3 1 4 5 6 8 7 
+3 4 2 1 7 8 5 6 
+5 6 8 2 1 4 7 3 
+4 7 6 8 3 5 2 1 
+7 8 5 3 4 1 6 2 
+8 1 7 6 2 3 4 5 
+6 5 3 7 8 2 1 4 
+Tempo de execucao: 0.0726230144501 segundos.
+Numero de atribuicoes: 5699
+78
+2 3 1 4 6 5 7 8 
+1 2 5 6 4 3 8 7 
+7 6 3 8 5 1 4 2 
+6 5 2 7 8 4 3 1 
+4 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 7 0 0 0 
+0 0 0 0 0 0 0 0 
+Tempo de execucao: 12.1628170013 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+79
+1 2 3 5 4 6 7 8 
+3 1 2 6 7 4 8 5 
+2 7 5 4 8 1 6 3 
+4 5 6 8 3 7 2 1 
+5 3 7 2 1 8 4 6 
+7 8 4 1 2 3 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Tempo de execucao: 15.0559198856 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+80
+1 3 2 4 8 5 6 7 
+6 2 1 3 5 7 4 8 
+8 1 6 5 2 4 7 3 
+5 7 3 2 4 8 1 6 
+2 8 4 7 6 3 5 1 
+7 6 0 0 0 0 0 0 
+0 0 0 0 0 0 8 2 
+0 0 0 0 0 2 0 0 
+Tempo de execucao: 11.5940339565 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+81
+7 2 1 5 4 3 6 8 9 
+3 6 4 7 2 1 8 9 5 
+1 3 2 4 8 9 5 7 6 
+9 8 7 6 3 5 1 4 2 
+4 5 0 0 0 0 0 0 0 
+6 0 0 0 0 2 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+Tempo de execucao: 11.2706959248 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+82
+2 8 4 6 9 1 7 3 5 
+1 9 8 3 6 2 5 7 4 
+6 1 2 5 4 8 3 9 7 
+4 3 7 1 5 9 0 0 0 
+0 0 0 0 0 7 0 4 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 2 0 0 0 5 0 
+Tempo de execucao: 15.692702055 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+83
+1 2 5 4 3 7 6 8 9 
+2 1 4 3 5 8 7 9 6 
+5 4 6 8 1 3 9 2 7 
+8 3 7 5 9 2 1 6 4 
+7 6 2 9 4 1 8 5 3 
+6 9 8 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 8 
+0 0 0 0 0 0 0 0 0 
+Tempo de execucao: 12.8968288898 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+84
+1 5 3 6 7 9 4 2 8 
+3 8 9 1 2 6 5 4 7 
+8 9 6 2 5 3 7 1 4 
+9 2 8 5 4 7 1 6 3 
+6 4 7 3 8 1 2 5 9 
+5 1 2 7 3 4 8 9 6 
+7 6 4 8 1 5 3 0 0 
+2 3 0 0 0 8 0 0 0 
+0 0 0 0 6 2 0 3 0 
+Tempo de execucao: 15.834444046 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+85
+1 2 3 8 5 6 7 4 9 
+2 1 5 6 4 3 9 8 7 
+4 5 1 9 7 2 3 6 8 
+5 9 6 3 0 0 0 0 0 
+0 0 0 0 0 0 1 3 0 
+0 0 0 0 3 0 4 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 5 0 0 0 0 0 
+0 4 0 0 0 0 5 0 0 
+Tempo de execucao: 11.9918990135 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+86
+4 1 5 2 3 6 7 8 9 
+2 3 1 8 4 7 9 5 6 
+1 4 6 3 7 2 5 9 8 
+3 6 8 7 2 9 4 1 5 
+7 5 3 9 6 8 2 4 1 
+6 2 7 5 9 1 8 3 4 
+5 7 9 6 8 4 1 2 3 
+8 9 2 4 1 5 3 6 7 
+9 8 4 1 5 3 6 7 2 
+Tempo de execucao: 2.427765131 segundos.
+Numero de atribuicoes: 146921
+87
+1 4 2 5 8 6 7 3 9 
+2 3 1 4 7 5 9 6 8 
+3 1 5 9 6 7 8 2 4 
+7 5 4 6 9 3 2 8 1 
+6 7 9 3 5 8 1 4 2 
+4 2 8 7 3 9 6 1 5 
+5 9 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+Tempo de execucao: 12.2606418133 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+88
+3 2 1 4 5 6 7 8 9 
+1 3 4 6 2 5 8 9 7 
+2 4 3 8 1 7 9 6 5 
+7 9 8 1 6 4 3 5 2 
+8 6 9 3 7 2 5 1 4 
+9 1 2 5 8 3 6 0 0 
+0 0 0 0 0 0 0 0 8 
+0 0 5 0 0 0 0 0 3 
+4 0 0 7 0 0 0 0 0 
+Tempo de execucao: 15.3542699814 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+89
+1 6 4 3 5 7 8 9 2 
+3 2 1 5 8 4 6 7 9 
+2 1 3 4 9 8 7 5 6 
+8 7 2 6 4 1 9 3 5 
+7 9 8 1 6 5 4 2 3 
+4 5 6 9 1 0 0 0 7 
+0 0 0 0 2 0 0 0 4 
+0 0 5 2 7 0 0 0 0 
+0 0 0 0 0 0 0 0 8 
+Tempo de execucao: 13.6940629482 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+90
+3 4 5 1 6 8 7 9 2 
+4 1 6 3 8 2 5 7 9 
+5 3 9 7 2 1 4 6 8 
+1 2 8 6 9 4 3 5 7 
+7 8 3 2 5 9 6 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 7 0 0 0 6 
+0 0 0 0 0 7 0 0 0 
+0 0 0 0 0 5 0 0 3 
+Tempo de execucao: 12.2361030579 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+91
+1 9 8 2 3 4 6 7 5 
+2 8 1 5 9 3 4 6 7 
+4 3 5 1 2 7 8 9 6 
+6 2 7 3 8 1 9 5 4 
+5 4 2 7 1 6 3 8 9 
+9 1 6 4 7 8 2 0 3 
+0 0 4 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 
+Tempo de execucao: 13.8147740364 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+92
+3 2 6 4 1 8 5 9 7 
+5 3 7 6 8 1 9 4 2 
+1 6 4 2 5 9 7 3 8 
+2 7 9 5 3 6 8 1 4 
+4 9 8 7 2 3 1 5 6 
+8 1 5 3 6 2 4 7 9 
+6 4 2 1 9 7 3 8 5 
+7 8 3 9 4 5 2 6 1 
+9 5 1 8 7 4 6 2 3 
+Tempo de execucao: 0.0229249000549 segundos.
+Numero de atribuicoes: 1515
+93
+2 1 3 4 5 6 7 8 9 
+1 2 5 6 4 3 8 9 7 
+7 3 1 2 8 9 5 6 4 
+4 5 8 1 9 7 6 2 3 
+3 9 6 7 1 8 2 4 5 
+5 7 4 3 6 2 9 1 8 
+9 8 2 5 3 4 1 7 6 
+8 6 7 9 2 5 4 3 1 
+6 4 9 8 7 1 3 5 2 
+Tempo de execucao: 1.09665989876 segundos.
+Numero de atribuicoes: 72566
+94
+5 1 2 3 4 6 8 7 9 
+1 3 4 5 2 7 9 6 8 
+6 5 9 2 7 1 3 8 4 
+8 9 3 1 5 4 6 2 7 
+7 4 8 9 3 2 1 5 6 
+4 7 1 8 6 9 2 3 5 
+2 8 6 7 1 5 4 9 3 
+9 2 7 6 8 3 5 4 1 
+3 6 5 4 9 8 7 1 2 
+Tempo de execucao: 9.71445202827 segundos.
+Numero de atribuicoes: 598003
+95
+1 2 3 7 8 5 4 9 6 
+2 1 4 3 7 6 5 8 9 
+4 3 7 1 9 8 2 6 5 
+5 8 6 9 4 3 1 7 2 
+3 7 8 4 5 2 6 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 6 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+Tempo de execucao: 12.8763301373 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+96
+1 2 4 3 7 5 8 9 6 
+2 7 1 4 6 3 9 5 8 
+3 6 5 2 1 7 4 8 9 
+4 9 8 6 5 2 7 1 3 
+7 8 6 1 9 4 5 3 2 
+6 4 9 7 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+8 0 0 0 0 6 0 0 0 
+Tempo de execucao: 14.6312191486 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+97
+1 2 3 5 4 6 7 8 9 
+4 5 6 1 3 2 8 9 7 
+3 4 7 9 8 1 5 6 2 
+2 1 8 6 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 9 0 0 0 0 
+0 0 0 4 0 0 0 0 0 
+0 0 0 2 0 0 0 0 0 
+Tempo de execucao: 10.7744550705 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+98
+2 1 3 4 5 6 9 7 8 
+4 3 7 6 8 5 1 2 9 
+7 4 8 1 9 2 3 5 6 
+6 5 1 8 7 9 2 3 4 
+5 2 9 3 6 1 7 8 0 
+0 0 0 0 0 3 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 4 7 
+Tempo de execucao: 11.7965199947 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+99
+1 5 4 2 6 3 7 8 9 
+7 8 1 3 2 5 4 9 6 
+8 2 9 6 1 4 3 5 7 
+9 1 6 4 8 2 5 7 3 
+6 9 2 1 5 7 8 3 4 
+4 7 5 8 3 6 9 1 2 
+5 4 3 7 9 1 6 2 0 
+0 0 0 5 0 8 0 0 0 
+0 0 0 0 0 0 0 0 0 
+Tempo de execucao: 14.3524410725 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
+100
+1 2 3 4 5 6 7 9 8 
+4 5 6 1 2 7 3 8 9 
+2 6 7 8 4 3 9 1 5 
+5 1 4 2 7 9 8 6 3 
+3 8 9 5 1 2 4 7 6 
+9 3 8 0 0 0 0 0 0 
+8 0 0 3 0 0 0 0 0 
+0 0 0 7 0 0 0 0 0 
+0 4 5 0 0 0 0 0 0 
+Tempo de execucao: 13.0811231136 segundos.
+***** NUMERO DE ATRIBUICOES EXCEDEU LIMITE MAXIMO *********
